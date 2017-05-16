@@ -5,7 +5,7 @@ public class AboutThis {
 	float cpu;
 	int var;
 	public AboutThis(){
-		System.out.println("构造函数");
+		System.out.println("AboutThis构造函数");
 	}
 	public void sentMessage(){
 		System.out.println("sentmessage");

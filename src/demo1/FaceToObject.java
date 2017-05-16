@@ -1,9 +1,9 @@
 package demo1;
-import com.imooc.Telphone;
+//import com.imooc.Telphone;
 public class FaceToObject {
 	private  float screen;
-	private  float mem;
-	private  float cpu;
+//	private  float mem;
+//	private  float cpu;
 	//定义方法
 	public float getScreen(){
 		System.out.println("get方法执行");
